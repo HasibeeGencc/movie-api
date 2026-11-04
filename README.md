@@ -6,6 +6,7 @@ A RESTful API built with **FastAPI** for managing a movie catalogue and getting 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063)
 ![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)
+[![Tests](https://github.com/HasibeeGencc/movie-api/actions/workflows/tests.yml/badge.svg)](https://github.com/HasibeeGencc/movie-api/actions/workflows/tests.yml)
 
 <!-- Add a screenshot of the Swagger UI at docs/swagger.png, then uncomment:
 ![Swagger UI](docs/swagger.png)
